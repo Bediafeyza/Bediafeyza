@@ -1,7 +1,8 @@
-### Hi there 👋
+ Welcome to my Github✨
 
-<!--
-**Bediafeyza/Bediafeyza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bediafeyza&layout=compact&theme=onedark)](https://github.com/Bediafeyza/github-readme-stats)
+
 
 Here are some ideas to get you started:
 
