@@ -10,14 +10,37 @@ oifdhvgdjhg
 
 
 ## My Repositories
+>2023
+>
+> Webprogrammering (DATA1700):
+> 
+> - [Ukesoppgaver](https://github.com/Bediafeyza/Data1700.git)
+>
+> - [Obliger](https://github.com/Bediafeyza/Data1700.git)
+> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 > 2022
 > 
-> Programmering:
+> Programmering (DATA1400):
 > 
 > - [Ukesoppgaver og obliger](https://github.com/Bediafeyza/Ukesoppgaver.git)
 > 
-> Webutvikling og inkluderende design:
->
+> Webutvikling og inkluderende design (DATA1200):
+> 
+> - [Obliger og eksamen](https://github.com/Bediafeyza/obliger-og-eksamen.git)
 
 
 
