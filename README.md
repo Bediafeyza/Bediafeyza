@@ -1,79 +1,12 @@
  ## Welcome to my Github✨
+### About me 🚀
+Hi there, my name is Bedia. I am currently studying in the field of Applied Computer Science at Oslomet.
+I have a strong interest in technology and love to challenge myself in different areas. I am always seeking new challenges and opportunities to grow and expand my expertise. Please don't hesitate to contact me if you have any questions!
 
-Her skal det komme en kort beskrivelse av meg selv:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bediafeyza&layout=compact&theme=rose_pine)](https://github.com/Bediafeyza/github-readme-stats)
+***
+### Languages and Tools 🛠:
 
-uhrgiuesghiu
-
-oifdhvgdjhg
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bediafeyza&layout=compact&theme=onedark)](https://github.com/Bediafeyza/github-readme-stats)
-
-
-## My Repositories
->2023
->
-> Webprogrammering (DATA1700):
-> 
-> - [Ukesoppgaver](https://github.com/Bediafeyza/Data1700.git)
->
-> - [Obliger](https://github.com/Bediafeyza/Data1700.git)
-> 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-> 2022
-> 
-> Programmering (DATA1400):
-> 
-> - [Ukesoppgaver og obliger](https://github.com/Bediafeyza/Ukesoppgaver.git)
-> 
-> Webutvikling og inkluderende design (DATA1200):
-> 
-> - [Obliger og eksamen](https://github.com/Bediafeyza/obliger-og-eksamen.git)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
->
-
-
-
-
-
-
-
-  ### Languages and Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -89,5 +22,35 @@ oifdhvgdjhg
 <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="WordPress" alt="WordPress" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+***
+### 1/2 Semester:
+>2023
+>
+> Webprogrammering (DATA1700):
+> 
+> - [Ukesoppgaver](https://github.com/Bediafeyza/UkesOppgaver_Data1700.git)
+>
+> - [Obliger](https://github.com/Bediafeyza/oblig1_Data1700.git)
+> 
+
+> 2022
+> 
+> Programmering (DATA1400):
+> 
+> - [Ukesoppgaver og obliger](https://github.com/Bediafeyza/Ukesoppgaver.git)
+> 
+> Webutvikling og inkluderende design (DATA1200):
+> 
+> - [Obliger og eksamen](https://github.com/Bediafeyza/obliger-og-eksamen.git)
+>
+## Feedback
+
+If you have any feedback, please reach out to me at bediafey@gmail.com
+
+
+
+ 
+
 
 
