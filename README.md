@@ -8,16 +8,41 @@ oifdhvgdjhg
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bediafeyza&layout=compact&theme=onedark)](https://github.com/Bediafeyza/github-readme-stats)
 
-### My Repositories
 
-2022
+## My Repositories
+> 2022
+> 
+> Programmering:
+> 
+> - [Ukesoppgaver og obliger](https://github.com/Bediafeyza/Ukesoppgaver.git)
+> 
+> Webutvikling og inkluderende design:
+>
 
-[Awesome README](https://github.com/matiassingers/awesome-readme)
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>
 
 
 
