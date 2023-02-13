@@ -4,7 +4,7 @@ Hei! Jeg heter Bedia og studerer for tiden anvendt datateknologi ved Oslomet.
 Jeg har en sterk interesse for teknologi og elsker å utfordre meg selv på forskjellige områder. 
 Jeg er alltid på jakt etter nye utfordringer og muligheter for utvikle min kompetanse. Ikke nøl med å kontakte meg hvis du har spørsmål!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bediafeyza&layout=compact&theme=rose_pine)](https://github.com/Bediafeyza/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bediafeyza&layout=compact&theme=dracula)](https://github.com/Bediafeyza/github-readme-stats)
 ***
 ### Languages and Tools 🛠:
 
