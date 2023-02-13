@@ -1,4 +1,5 @@
  ## Github profilime hoş geldiniz ✨
+ [[English]](https://github.com/Bediafeyza/Bediafeyza/blob/main/ENGLISH.md)· [[Norsk]](https://github.com/Bediafeyza/Bediafeyza/blob/main/NORSK.md) · [[Türkçe]](https://github.com/Bediafeyza/Bediafeyza/blob/main/TURKCE.md) 
 ### Hakkımda 🚀
 Merhaba, ben Bedia. Şu anda Oslomet üniversitesinde Uygulamalı Bilgisayar Bilimi bölümünde okuyorum. Farklı alanlarda kendimi zorlamayı seviyorum. 
 Her zaman yeni meydan okumalar
