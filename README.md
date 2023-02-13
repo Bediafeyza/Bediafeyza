@@ -1,6 +1,6 @@
- ## Welcome to my Github✨
+ ## Welcome to my Github ✨
 ### About me 🚀
-Hi there, my name is Bedia. I am currently studying in the field of Applied Computer Science at Oslomet.
+Hi there, my name is Bedia. I am currently studying in the field of Applied Computer Technology at Oslomet.
 I have a strong interest in technology and love to challenge myself in different areas. I am always seeking new challenges and opportunities to grow and expand my expertise. Please don't hesitate to contact me if you have any questions!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bediafeyza&layout=compact&theme=rose_pine)](https://github.com/Bediafeyza/github-readme-stats)
