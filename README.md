@@ -5,7 +5,7 @@
 Hi there, my name is Bedia.</br> I am currently studying in the field of Applied Computer Technology at Oslomet.
 I have a strong interest in technology and love to challenge myself in different areas. I am always seeking new challenges and opportunities to grow and expand my expertise.</br>Please don't hesitate to contact me if you have any questions!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bediafeyza&layout=compact&theme=rose_pine)](https://github.com/Bediafeyza/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bediafeyza&layout=compact&theme=dracula)](https://github.com/Bediafeyza/github-readme-stats)
 ***
 ### Languages and Tools 🛠:
 
