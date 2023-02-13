@@ -4,7 +4,7 @@ Merhaba, ben Bedia. Şu anda Oslomet üniversitesinde Uygulamalı Bilgisayar Bil
 Her zaman yeni meydan okumalar
 ve kendimi geliştirme fırsatları arıyorum. Herhangi bir sorunuz varsa, lütfen tereddüt etmeden benimle iletişime geçin!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bediafeyza&layout=compact&theme=rose_pine)](https://github.com/Bediafeyza/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bediafeyza&layout=compact&theme=dracula)](https://github.com/Bediafeyza/github-readme-stats)
 ***
 ### Program dilleri ve araçlar 🛠:
 
