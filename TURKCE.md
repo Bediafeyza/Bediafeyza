@@ -17,7 +17,7 @@ ve kendimi geliştirme fırsatları arıyorum. Herhangi bir sorunuz varsa, lütf
 <img src="https://github.com/Bediafeyza/devicon/blob/master/icons/vscode/vscode-original.svg" title="VScode" alt="VScode" width="40" height="40"/>&nbsp;
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ides/intellij.svg" alt="Intellij" width="45" height="45"/>&nbsp;
 <img src="https://github.com/Bediafeyza/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySql" alt="Mysql" width="40" height="40"/>&nbsp;
-<img src="https://github.com/logo/apple/blob/master/images/logo-white.svg" title="Apple" alt="Apple" width="40" height="40"/>&nbsp;
+<img src="https://github.com/logo/apple/blob/master/images/logo.svg" title="Apple" alt="Apple" width="40" height="40"/>&nbsp;
 <img src="https://github.com/Bediafeyza/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
   <img src="https://github.com/Bediafeyza/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40"
   height="40"/>&nbsp;
