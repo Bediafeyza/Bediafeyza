@@ -1,4 +1,5 @@
  ## Velkommen til min Github-profil ✨
+ [[English]](https://github.com/Bediafeyza/Bediafeyza/blob/main/ENGLISH.md)· [[Norsk]](https://github.com/Bediafeyza/Bediafeyza/blob/main/NORSK.md) · [[Türkçe]](https://github.com/Bediafeyza/Bediafeyza/blob/main/TURKCE.md) 
 ### Om meg 🚀
 Hei! Jeg heter Bedia og studerer for tiden anvendt datateknologi ved Oslomet.
 Jeg har en sterk interesse for teknologi og elsker å utfordre meg selv på forskjellige områder. 
