@@ -1,4 +1,5 @@
 ## Welcome to my Github ✨
+[[English]](https://github.com/Bediafeyza/Bediafeyza/blob/main/ENGLISH.md)· [[Norsk]](https://github.com/Bediafeyza/Bediafeyza/blob/main/NORSK.md) · [[Türkçe]](https://github.com/Bediafeyza/Bediafeyza/blob/main/TURKCE.md) 
 ### About me 🚀
 Hi there, my name is Bedia. I am currently studying in the field of Applied Computer Technology at Oslomet.
 I have a strong interest in technology and love to challenge myself in different areas. I am always seeking new challenges and opportunities to grow and expand my expertise. Please don't hesitate to contact me if you have any questions!
