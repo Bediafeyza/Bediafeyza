@@ -1,7 +1,7 @@
  ## Velkommen til min Github-profil ✨
  [[English]](https://github.com/Bediafeyza/Bediafeyza/blob/main/ENGLISH.md)· [[Norsk]](https://github.com/Bediafeyza/Bediafeyza/blob/main/NORSK.md) · [[Türkçe]](https://github.com/Bediafeyza/Bediafeyza/blob/main/TURKCE.md) 
 ### Om meg 🚀
-Hei! Jeg heter Bedia og studerer for tiden anvendt datateknologi ved Oslomet.
+Hei! Jeg heter Bedia og har en bachelorgrad i anvendt datateknologi fra OsloMet, med spesialisering i programmering.
 Jeg har en sterk interesse for teknologi og elsker å utfordre meg selv på forskjellige områder. 
 Jeg er alltid på jakt etter nye utfordringer og muligheter for utvikle min kompetanse. Ikke nøl med å kontakte meg hvis du har spørsmål!
 
