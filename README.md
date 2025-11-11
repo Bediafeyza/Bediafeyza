@@ -2,7 +2,7 @@
 [[English]](https://github.com/Bediafeyza/Bediafeyza/blob/main/ENGLISH.md)· [[Norsk]](https://github.com/Bediafeyza/Bediafeyza/blob/main/NORSK.md) · [[Türkçe]](https://github.com/Bediafeyza/Bediafeyza/blob/main/TURKCE.md) 
  
 ### About me 🚀
-Hi there, my name is Bedia.</br> I hold a Bachelor’s degree in Applied Computer Technology from OsloMet, with a specialization in programming.
+Hi, I’m Bedia </br> I hold a Bachelor’s degree in Applied Computer Technology from OsloMet, with a specialization in programming.
 I’m passionate about IT operations, client management, and automation, and enjoy solving complex problems efficiently.
 Always curious and eager to learn — feel free to connect!
 
