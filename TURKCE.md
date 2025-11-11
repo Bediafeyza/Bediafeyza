@@ -1,9 +1,9 @@
  ## Github profilime hoş geldiniz ✨
  [[English]](https://github.com/Bediafeyza/Bediafeyza/blob/main/ENGLISH.md)· [[Norsk]](https://github.com/Bediafeyza/Bediafeyza/blob/main/NORSK.md) · [[Türkçe]](https://github.com/Bediafeyza/Bediafeyza/blob/main/TURKCE.md) 
 ### Hakkımda 🚀
-Merhaba, ben Bedia. Şu anda Oslomet üniversitesinde Uygulamalı Bilgisayar Bilimi bölümünde okuyorum. Farklı alanlarda kendimi zorlamayı seviyorum. 
-Her zaman yeni meydan okumalar
-ve kendimi geliştirme fırsatları arıyorum. Herhangi bir sorunuz varsa, lütfen tereddüt etmeden benimle iletişime geçin!
+Merhaba, ben Bedia. Oslomet üniversitesinde uygulamalı Bilgisayar Teknolojisi alanında, programlama uzmanlığıyla lisansımı tamamladım.
+Her zaman meraklı, öğrenmeye açık ve gelişmeye hevesliyim — iletişime geçmekten çekinme!
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bediafeyza&layout=compact&theme=dracula)](https://github.com/Bediafeyza/github-readme-stats)
 ***
